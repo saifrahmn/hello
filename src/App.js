@@ -1,14 +1,18 @@
 
 import './App.css';
 import Menu from './Menu';
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
+        <div class="icon">
+          SR
+          </div>
         <p>
           Hi, I am Saif Rahman
         </p>
+        
         <div class="mid">
         Engineering - Student - Enthusatic
         </div>
@@ -17,9 +21,8 @@ function App() {
             Blog
        </span>
        </div>
-       <svg viewBox="0 0 120 120">
-                    <circle cx="60" cy="60" r="50"/>
-                </svg>
+       
+
         
       </header>
     </div>

@@ -44,13 +44,22 @@
 }
 p{
   position:absolute;
-  color:#e7423c;
+  color:#D77138;
   font-weight:480;
   left:2cm;
-  top:2cm;
+  top:2.5cm;
   
   
 }
+.icon{
+  position: relative;
+    left: 1.5cm;
+    top: 21px;
+    color: #D77138;
+    font-weight: 500;
+    font-size: 36px;
+}
+
 .menu{
   position: absolute;
   left: 30cm;
@@ -61,3 +70,13 @@ p{
   top:11.3cm;
   
 }
+.img{
+  position: absolute;
+  width: 251px;
+  height: 249px;
+
+  background: url(IMG_20211124_072046_256.jpg)
+}
+
+
+
