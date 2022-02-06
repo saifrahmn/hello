@@ -70,13 +70,16 @@ p{
   top:11.3cm;
   
 }
+
+
 .img{
+  width:100%;
+  height:100%;
+  object-fit: cover;
   position: absolute;
-  width: 251px;
-  height: 249px;
+ 
 
-  background: url(IMG_20211124_072046_256.jpg)
+ 
 }
-
 
 

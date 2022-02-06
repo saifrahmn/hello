@@ -1,5 +1,6 @@
 
 import './App.css';
+import img from './IMG_20211124_072046_256.jpg';
 import Menu from './Menu';
 
 function App() {
@@ -13,9 +14,15 @@ function App() {
           Hi, I am Saif Rahman
         </p>
         
+        
+          
+          <img src={img} classname="img" />
+        
+
         <div class="mid">
         Engineering - Student - Enthusatic
         </div>
+
         <div class="menu">
         <span class="blog">
             Blog
